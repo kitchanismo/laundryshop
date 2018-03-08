@@ -1,0 +1,90 @@
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\bin\Debug\LaundryShopSystem.exe
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\bin\Debug\LaundryShopSystem.pdb
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\bin\Debug\LaundryShopSystem.xml
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmMain.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.Resources.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbproj.GenerateResource.Cache
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.exe
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.xml
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.pdb
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmLogin.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCompany.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCustomer.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmEmployee.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmUser.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmProduct.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\bin\Debug\kitchanismoV2.pdb
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\bin\Debug\kitchanismoV2.xml
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmClaimOrder.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmSales.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.exe
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.xml
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.pdb
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\bin\Debug\LaundryShopSystem.exe
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\bin\Debug\LaundryShopSystem.pdb
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\bin\Debug\LaundryShopSystem.xml
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\bin\Debug\kitchanismoV2.pdb
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\bin\Debug\kitchanismoV2.xml
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbprojResolveAssemblyReference.cache
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmPrintPreview.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmSales.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmClaimOrder.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmProduct.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmUser.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmEmployee.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCustomer.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCompany.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmLogin.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmMain.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.Resources.resources
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbproj.GenerateResource.Cache
+E:\Desktop files\LaundryShopSystem\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmTransparent.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.exe
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.xml
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.pdb
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\LaundryShopSystem.exe
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\LaundryShopSystem.pdb
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\LaundryShopSystem.xml
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\kitchanismoV2.pdb
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\kitchanismoV2.xml
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmPrintPreview.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmSales.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmClaimOrder.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmProduct.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmTransparent.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmUser.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmEmployee.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCustomer.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCompany.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmLogin.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmMain.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.Resources.resources
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbproj.GenerateResource.Cache
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Betsayda\Desktop\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.exe
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.xml
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.pdb
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\LaundryShopSystem.exe
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\LaundryShopSystem.pdb
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\LaundryShopSystem.xml
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\kitchanismoV2.pdb
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\kitchanismoV2.xml
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbprojResolveAssemblyReference.cache
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmPrintPreview.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmSales.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmClaimOrder.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmProduct.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmTransparent.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmUser.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmEmployee.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCustomer.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmCompany.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmLogin.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.frmMain.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.Resources.resources
+E:\New folder\LaundryShopSystem4.0\LaundryShopSystem\obj\x86\Debug\LaundryShopSystem.vbproj.GenerateResource.Cache
